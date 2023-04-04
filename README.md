@@ -5,7 +5,6 @@
 [![Project Version](https://img.shields.io/github/package-json/v/AmruthPillai/Reactive-Resume?style=flat-square)](https://github.com/AmruthPillai/Reactive-Resume/releases)
 [![Project License](https://img.shields.io/github/license/AmruthPillai/Reactive-Resume?style=flat-square)](https://github.com/AmruthPillai/Reactive-Resume/blob/main/LICENSE)
 [![Crowdin](https://badges.crowdin.net/reactive-resume/localized.svg)](https://translate.rxresu.me)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amruthpillai/reactive-resume?style=flat-square)](https://hub.docker.com/r/amruthpillai/reactive-resume)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/AmruthPillai/Reactive-Resume/docker-build-push.yml?branch=main&label=docker%20build&style=flat-square)
 [![Gitpod](https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/AmruthPillai/Reactive-Resume)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAmruthPillai%2FReactive-Resume.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAmruthPillai%2FReactive-Resume?ref=badge_shield)
@@ -105,7 +104,7 @@ The docs include an extensive [Tutorial](https://docs.rxresu.me/tutorial) sectio
 
 ## Build from Source
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AmruthPillai/Reactive-Resume)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/Laxmikant-Baviskar/Resume-builder-web-portal)
 
 Initially building the image and project on Gitpod will take at least ~10 minutes, so please be patient on first launch.
 
@@ -125,13 +124,13 @@ NOTE: Be sure to merge the latest from `main` before making a pull request!
 
 ## Report Bugs and Feature Requests
 
-Use the [GitHub Issues](https://github.com/AmruthPillai/Reactive-Resume/issues/new/choose) platform to notify me about bugs or new features that you would like to see in Reactive Resume. Please check before creating new issues as there might already be one.
+Use the [GitHub Issues] (https://github.com/Laxmikant-Baviskar/Resume-builder-web-portal/issues/new/choose) platform to notify me about bugs or new features that you would like to see in Reactive Resume. Please check before creating new issues as there might already be one.
 
 ## Donations
 
 Reactive Resume would be nothing without the folks who supported me and kept the project alive in the beginning, and your continued support is what keeps me going. If you found Reactive Resume to be useful, helpful or just insightful and appreciate the effort I took to make the project, please consider donating as little or as much as you can.
 
-### [GitHub Sponsor](https://github.com/sponsors/AmruthPillai)
+### [GitHub Sponsor](https://github.com/sponsors)
 ### [PayPal](https://paypal.me/RajaRajanA)
 
 
