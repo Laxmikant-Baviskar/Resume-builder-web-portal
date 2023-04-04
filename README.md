@@ -134,9 +134,6 @@ Reactive Resume would be nothing without the folks who supported me and kept the
 ### [GitHub Sponsor](https://github.com/sponsors/AmruthPillai)
 ### [PayPal](https://paypal.me/RajaRajanA)
 
-## GitHub Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date)](https://star-history.com/#AmruthPillai/Reactive-Resume&Date)
 
 ## Infrastructure
 
@@ -147,12 +144,3 @@ Reactive Resume would be nothing without the folks who supported me and kept the
 - [Crowdin](https://translate.rxresu.me/), translation management platform
 
 &nbsp;
-
-<a href="https://pillai.xyz/digitalocean">
-  <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="200px" />
-</a>
-
-## Contributors Wall
-<a href="https://github.com/AmruthPillai/Reactive-Resume/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AmruthPillai/Reactive-Resume" />
-</a>
