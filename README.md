@@ -143,3 +143,4 @@ Reactive Resume would be nothing without the folks who supported me and kept the
 - [Crowdin](https://translate.rxresu.me/), translation management platform
 
 &nbsp;
+
